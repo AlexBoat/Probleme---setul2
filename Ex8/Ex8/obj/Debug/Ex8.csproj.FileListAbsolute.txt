@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\bin\Debug\Ex8.exe.config
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\bin\Debug\Ex8.exe
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\bin\Debug\Ex8.pdb
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\obj\Debug\Ex8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\obj\Debug\Ex8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\obj\Debug\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\obj\Debug\Ex8.exe
+C:\Users\user\Desktop\C# Things\Ex8\Ex8\obj\Debug\Ex8.pdb
